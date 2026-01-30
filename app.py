@@ -51,7 +51,7 @@ def ask_csv_llm(question, df):
 
 # Streamlit App
 st.set_page_config(page_title="CSV LLM Assistant", layout="wide")
-st.title("📊 LLM-Powered CSV Analytics Assistant")
+st.title("LLM-Powered CSV Analytics Assistant")
 st.markdown("Ask questions about the Superstore dataset. Visualizations will appear when applicable.")
 
 # Loading dataset
