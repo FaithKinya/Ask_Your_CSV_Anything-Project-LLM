@@ -23,3 +23,11 @@ It uses **Llama 3** (local/open-source LLM) for natural language question answer
 - "Top-selling products"
 
 The dashboard also provides **interactive visualizations** and **KPI metrics**.
+
+<img width="1365" height="585" alt="Screenshot 2026-01-31 224814" src="https://github.com/user-attachments/assets/07eda792-2b1a-43a4-b5b0-4542f20eb773" />
+
+
+<img width="1365" height="585" alt="Screenshot 2026-01-31 224827" src="https://github.com/user-attachments/assets/ca935207-a5e8-4292-a8dd-82b55fe0f0b0" />
+
+<img width="1354" height="578" alt="Screenshot 2026-01-31 224911" src="https://github.com/user-attachments/assets/4e7f9bda-2bcc-43dc-a1a5-08f7415e1da6" />
+
